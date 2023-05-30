@@ -1,17 +1,17 @@
 {
-  "ver_android": "1.035.4-0110",
-  "ver_windows": "1.035.4-0110",
-  "ver_other": "1.035.4-0110",
+  "ver_android": "1.036.0-0530",
+  "ver_windows": "1.036.0-0530",
+  "ver_other": "1.036.0-0530",
   "url_upver": "https://share.weiyun.com/bE1GmhyB",
-  "url_update": "https://dl2.ygopro2.eu.org/data/ClientData-20230409.zip",
-  "url_locales": "https://dl2.ygopro2.eu.org/data/locales-20230409.zip",
-  "url_serverlist": "",
+  "url_update": "https://dl.ygopro2.eu.org/data/ClientData-20230530.zip",
+  "url_locales": "https://dl.ygopro2.eu.org/data/locales-20230530.zip",
+  "url_serverlist": "https://dl.ygopro2.eu.org/config/server.conf",
   "key_qq": "",
   "key_compatible": true,
-  "locales_US": 12602,
+  "locales_US": 12700,
   "locales_JP": 12602,
-  "locales_KR": 12602,
-  "locales_CN": 12602,
-  "locales_TW": 12602,
-  "version": "0x1354"
+  "locales_KR": 12700,
+  "locales_CN": 12700,
+  "locales_TW": 12700,
+  "version": "0x1360"
 }
