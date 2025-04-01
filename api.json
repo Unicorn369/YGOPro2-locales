@@ -3,7 +3,7 @@
   "ver_windows": "1.036.1-2501",
   "ver_other": "1.036.1-2501",
   "url_upver": "https://dl.ygopro2.asia/changelog.html",
-  "url_update": "https://dl.ygopro2.asia/data/ClientData-20250319-fix.zip",
+  "url_update": "https://dl.ygopro2.asia/data/ClientData-20250401-fix.zip",
   "url_locales": "https://dl.ygopro2.asia/data/locales-20250319.zip",
   "url_serverlist": "https://dl.ygopro2.asia/config/server.conf",
   "key_qq": "",
@@ -11,7 +11,7 @@
   "locales_US": 13820,
   "locales_JP": 13820,
   "locales_KR": 13720,
-  "locales_CN": 13820,
+  "locales_CN": 13869,
   "locales_TW": 13720,
   "version": "0x1361"
 }
